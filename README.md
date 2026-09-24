@@ -1,3 +1,5 @@
+> **Código-fonte completo (client + servidor):** https://github.com/allau-lab/wyd-748-ports
+
 # SKILLS — port WYD (client + servidor)
 
 Skills cirúrgicas e **independentes de máquina**: sem paths absolutos do autor.
